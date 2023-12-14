@@ -1,3 +1,2 @@
-
 #!/bin/bash
-echo tail etc/passwd
+tail -n 10 4-lastlines 
